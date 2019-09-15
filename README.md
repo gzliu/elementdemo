@@ -1,6 +1,6 @@
 # elementdemo
 
-> A Vue.js project
+> A Vue.js & Element-Ui project
 
 ## Build Setup
 
